@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "//dxtech/static/css/main.8d0791ac.css",
-    "main.js": "//dxtech/static/js/main.9768e820.js",
-    "static/js/453.a9273726.chunk.js": "//dxtech/static/js/453.a9273726.chunk.js",
-    "static/media/contact.png": "//dxtech/static/media/contact.23e0b25d89e4b50c31a9.png",
-    "static/media/notice.png": "//dxtech/static/media/notice.26b7c58e17b8e5d06692.png",
-    "static/media/Doe.png": "//dxtech/static/media/Doe.e13f2750bf39bbdc2a61.png",
-    "static/media/Emily.png": "//dxtech/static/media/Emily.0581d93b3d7856cf027d.png",
-    "static/media/Kim.png": "//dxtech/static/media/Kim.4e593760bf775e0c6abd.png",
-    "static/media/proposal.png": "//dxtech/static/media/proposal.7c44580d2ad098ca4b14.png",
-    "static/media/Brown.png": "//dxtech/static/media/Brown.13ea4f17b6db94461d7b.png",
-    "static/media/Smith.png": "//dxtech/static/media/Smith.6ffe5bbacc258c1b17db.png",
-    "static/media/analytics.png": "//dxtech/static/media/analytics.e78ed3809c7a40a942e7.png",
-    "static/media/Brian.png": "//dxtech/static/media/Brian.a5ce76fb2d11433d1223.png",
-    "static/media/click.png": "//dxtech/static/media/click.764fbe126439dd8681cd.png",
-    "static/media/content.png": "//dxtech/static/media/content.000b7320d4bed36921b3.png",
-    "static/media/search.png": "//dxtech/static/media/search.9fa2eb3a7416a7885769.png",
-    "static/media/email.png": "//dxtech/static/media/email.c455f2dd7bf14bd04fef.png",
-    "static/media/media.png": "//dxtech/static/media/media.032bfb29601e0bcee0a7.png",
-    "index.html": "//dxtech/index.html",
-    "main.8d0791ac.css.map": "//dxtech/static/css/main.8d0791ac.css.map",
-    "main.9768e820.js.map": "//dxtech/static/js/main.9768e820.js.map",
-    "453.a9273726.chunk.js.map": "//dxtech/static/js/453.a9273726.chunk.js.map"
+    "main.css": "/dxtech/static/css/main.8d0791ac.css",
+    "main.js": "/dxtech/static/js/main.c7479cd6.js",
+    "static/js/453.a9273726.chunk.js": "/dxtech/static/js/453.a9273726.chunk.js",
+    "static/media/contact.png": "/dxtech/static/media/contact.23e0b25d89e4b50c31a9.png",
+    "static/media/notice.png": "/dxtech/static/media/notice.26b7c58e17b8e5d06692.png",
+    "static/media/Doe.png": "/dxtech/static/media/Doe.e13f2750bf39bbdc2a61.png",
+    "static/media/Emily.png": "/dxtech/static/media/Emily.0581d93b3d7856cf027d.png",
+    "static/media/Kim.png": "/dxtech/static/media/Kim.4e593760bf775e0c6abd.png",
+    "static/media/proposal.png": "/dxtech/static/media/proposal.7c44580d2ad098ca4b14.png",
+    "static/media/Brown.png": "/dxtech/static/media/Brown.13ea4f17b6db94461d7b.png",
+    "static/media/Smith.png": "/dxtech/static/media/Smith.6ffe5bbacc258c1b17db.png",
+    "static/media/analytics.png": "/dxtech/static/media/analytics.e78ed3809c7a40a942e7.png",
+    "static/media/Brian.png": "/dxtech/static/media/Brian.a5ce76fb2d11433d1223.png",
+    "static/media/click.png": "/dxtech/static/media/click.764fbe126439dd8681cd.png",
+    "static/media/content.png": "/dxtech/static/media/content.000b7320d4bed36921b3.png",
+    "static/media/search.png": "/dxtech/static/media/search.9fa2eb3a7416a7885769.png",
+    "static/media/email.png": "/dxtech/static/media/email.c455f2dd7bf14bd04fef.png",
+    "static/media/media.png": "/dxtech/static/media/media.032bfb29601e0bcee0a7.png",
+    "index.html": "/dxtech/index.html",
+    "main.8d0791ac.css.map": "/dxtech/static/css/main.8d0791ac.css.map",
+    "main.c7479cd6.js.map": "/dxtech/static/js/main.c7479cd6.js.map",
+    "453.a9273726.chunk.js.map": "/dxtech/static/js/453.a9273726.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d0791ac.css",
-    "static/js/main.9768e820.js"
+    "static/js/main.c7479cd6.js"
   ]
 }
