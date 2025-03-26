@@ -1,0 +1,66 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.member {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  height: 330px;
+  border-radius: 46px;
+  border: 1px solid var(--dark);
+  box-shadow: 0px 5px 0px 0px var(--dark);
+  margin: 24px 0;
+  padding: 36px;
+}
+
+.intro {
+  flex: 1;
+  display: flex;
+  border-bottom: 1px solid var(--dark);
+  padding: 20px 0;
+}
+
+.avatar {
+  width: 106px;
+  height: 106px;
+}
+
+.info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-left: 12px;
+}
+
+.name {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.position {
+  font-size: 1.8rem;
+  font-weight: 400;
+}
+
+.description {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+}
+
+.see-all {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  margin: 36px 12px 36px 0;
+}
+
+.btn-see {
+  padding: 18px 60px;
+}

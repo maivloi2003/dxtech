@@ -1,0 +1,83 @@
+.wrapper {
+  height: 625px;
+  background-color: var(--dark);
+  border-radius: 46px;
+  padding: 70px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.testi {
+  width: 606px;
+  height: 336px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card {
+  position: relative;
+  border: 1px solid var(--primary);
+  border-radius: 46px;
+  padding: 30px;
+  color: #fff;
+  max-width: 500px;
+  background-color: var(--dark);
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  bottom: -21px;
+  left: 100px;
+  width: 40px;
+  height: 40px;
+  background-color: var(--dark);
+  border-left: 1px solid var(--primary);
+  border-bottom: 1px solid var(--primary);
+  transform: rotate(-45deg);
+}
+
+.text {
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.name-author {
+  margin-top: 40px;
+  color: var(--primary);
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.position-author {
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #fff;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.dots {
+  display: flex;
+  gap: 8px;
+}
+
+.prev,
+.next {
+  cursor: pointer;
+  margin: 0 20px;
+  color: white;
+  font-size: 24px;
+}

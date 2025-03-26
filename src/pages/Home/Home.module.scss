@@ -1,0 +1,60 @@
+.wrapper {
+  width: 1440px;
+  margin: 0 auto;
+  padding: 60px 80px 0;
+}
+
+.services,
+.studies,
+.process,
+.team,
+.testimonials,
+.contact {
+  display: flex;
+  align-items: center;
+  margin: 48px 0;
+}
+
+.sub-services,
+.sub-studies,
+.sub-process,
+.sub-team,
+.sub-testimonials,
+.sub-contact {
+  width: 500px;
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin: 0 24px;
+}
+
+.proposal {
+  padding: 0 24px;
+  margin: 74px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 347px;
+  background-color: var(--light);
+}
+
+.content {
+  width: 500px;
+  height: 230px;
+  padding: 12px 48px;
+}
+
+.heading {
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 24px 0 12px;
+}
+
+.img-proposal {
+  width: 494px;
+  height: 394px;
+}

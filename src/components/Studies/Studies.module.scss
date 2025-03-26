@@ -1,0 +1,33 @@
+.wrapper {
+  display: flex;
+  height: 326px;
+  margin: 50px 0 70px;
+  padding: 36px 24px;
+  background-color: var(--dark);
+  border-radius: 46px;
+}
+
+.studies {
+  margin: 24px 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0 60px;
+}
+
+.studies-2 {
+  border-left: 1px solid var(--light);
+  border-right: 1px solid var(--light);
+}
+
+.heading {
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: var(--light);
+}
+
+.more {
+  font-size: 2rem;
+  font-weight: 400;
+}

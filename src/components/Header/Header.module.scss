@@ -1,0 +1,32 @@
+.wrapper {
+  display: flex;
+  height: 515px;
+  background-color: #fff;
+  justify-content: space-between;
+  margin: 32px 0;
+}
+
+.intro,
+.banner {
+  width: 600px;
+}
+
+.heading {
+  font-size: 6rem;
+  font-weight: 500;
+}
+
+.title {
+  font-size: 2rem;
+  line-height: 2.8rem;
+  font-weight: 400;
+  margin-bottom: 28px;
+}
+
+.book {
+  padding: 16px 26px;
+}
+
+.img-banner {
+  height: 515px;
+}

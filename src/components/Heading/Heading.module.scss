@@ -1,0 +1,22 @@
+.wrapper {
+  font-size: 3rem;
+  font-weight: 500;
+  padding: 2px 6px;
+  border-radius: 8px;
+  width: fit-content;
+}
+
+.primary {
+  background-color: var(--primary);
+  color: var(--dark);
+}
+
+.dark {
+  background-color: var(--dark);
+  color: #fff;
+}
+
+.light {
+  background-color: #fff;
+  color: var(--dark);
+}
