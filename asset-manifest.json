@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dxtech/static/css/main.8d0791ac.css",
-    "main.js": "/dxtech/static/js/main.c7479cd6.js",
+    "main.css": "/dxtech/static/css/main.9cc01454.css",
+    "main.js": "/dxtech/static/js/main.087553df.js",
     "static/js/453.a9273726.chunk.js": "/dxtech/static/js/453.a9273726.chunk.js",
     "static/media/contact.png": "/dxtech/static/media/contact.23e0b25d89e4b50c31a9.png",
     "static/media/notice.png": "/dxtech/static/media/notice.26b7c58e17b8e5d06692.png",
@@ -19,12 +19,12 @@
     "static/media/email.png": "/dxtech/static/media/email.c455f2dd7bf14bd04fef.png",
     "static/media/media.png": "/dxtech/static/media/media.032bfb29601e0bcee0a7.png",
     "index.html": "/dxtech/index.html",
-    "main.8d0791ac.css.map": "/dxtech/static/css/main.8d0791ac.css.map",
-    "main.c7479cd6.js.map": "/dxtech/static/js/main.c7479cd6.js.map",
+    "main.9cc01454.css.map": "/dxtech/static/css/main.9cc01454.css.map",
+    "main.087553df.js.map": "/dxtech/static/js/main.087553df.js.map",
     "453.a9273726.chunk.js.map": "/dxtech/static/js/453.a9273726.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d0791ac.css",
-    "static/js/main.c7479cd6.js"
+    "static/css/main.9cc01454.css",
+    "static/js/main.087553df.js"
   ]
 }
