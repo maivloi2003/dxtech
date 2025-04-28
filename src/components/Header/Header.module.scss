@@ -30,3 +30,36 @@
 .img-banner {
   height: 515px;
 }
+
+// Mobile
+@media (max-width: 767px) {
+  .wrapper {
+    padding: 0 6px;
+    height: fit-content;
+    flex-direction: column;
+  }
+
+  .intro,
+  .banner {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .heading {
+    text-align: center;
+    font-size: 3rem;
+  }
+
+  .title {
+    margin-top: 8px;
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  .img-banner {
+    width: 98%;
+    height: auto;
+  }
+}

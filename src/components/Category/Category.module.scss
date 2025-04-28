@@ -7,3 +7,13 @@
 .item {
   padding: 4px 8px;
 }
+
+// Mobile
+@media (max-width: 767px) {
+  .wrapper {
+    flex-wrap: wrap;
+  }
+  .item {
+    width: 30%;
+  }
+}

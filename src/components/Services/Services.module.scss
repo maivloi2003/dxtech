@@ -62,3 +62,41 @@
   width: 210px;
   height: 166px;
 }
+
+// Mobile
+@media (max-width: 767px) {
+  .wrapper {
+    padding: 0 6px;
+  }
+
+  .service-1,
+  .service-2,
+  .service-3 {
+    flex-direction: column;
+    gap: 48px;
+  }
+
+  .search-service,
+  .adv-service,
+  .media-service,
+  .email-service,
+  .content-service,
+  .analytics-service {
+    width: 100%;
+    padding: 6px 12px;
+  }
+  .content,
+  img {
+    flex: 1;
+  }
+
+  .img-search,
+  .img-adv,
+  .img-media,
+  .img-email,
+  .img-content,
+  .img-analytics {
+    width: 100%;
+    height: auto;
+  }
+}

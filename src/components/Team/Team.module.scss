@@ -64,3 +64,23 @@
 .btn-see {
   padding: 18px 60px;
 }
+
+// Mobile
+@media (max-width: 767px) {
+  .wrapper {
+    flex-direction: column;
+    align-items: center;
+    margin: 0 6px;
+    flex-wrap: nowrap;
+  }
+
+  .member {
+    width: 94%;
+    height: auto;
+    padding: 24px;
+  }
+
+  .see-all {
+    justify-content: center;
+  }
+}

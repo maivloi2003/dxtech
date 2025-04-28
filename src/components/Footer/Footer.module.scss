@@ -95,3 +95,37 @@
     margin-left: 50px;
   }
 }
+
+// Mobile
+@media (max-width: 767px) {
+  .wrapper {
+    margin: 0 6px;
+    height: auto;
+  }
+
+  .nav-list {
+    display: none;
+  }
+  .body {
+    height: auto;
+  }
+  .mail {
+    width: 100%;
+  }
+  .body,
+  .form-mail {
+    margin-top: 24px;
+    flex-direction: column;
+    align-items: unset;
+    background-color: transparent;
+  }
+  .btn-send {
+    margin-top: 24px;
+    margin-left: 0;
+  }
+  .note {
+    border-top: none;
+    margin-top: 0;
+    padding-top: 24px;
+  }
+}

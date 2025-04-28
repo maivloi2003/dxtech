@@ -58,3 +58,49 @@
   width: 494px;
   height: 394px;
 }
+
+// Mobile
+@media (max-width: 767px) {
+  .wrapper {
+    width: 100%;
+    padding: 0;
+  }
+
+  .services,
+  .studies,
+  .process,
+  .team,
+  .testimonials,
+  .contact {
+    flex-direction: column;
+    margin: 48px;
+  }
+  .sub-services,
+  .sub-studies,
+  .sub-process,
+  .sub-team,
+  .sub-testimonials,
+  .sub-contact {
+    text-align: center;
+    margin: 12px 0 6px;
+    width: 100%;
+  }
+
+  .proposal {
+    flex-direction: column;
+    height: auto;
+  }
+  .content {
+    width: 100%;
+    height: auto;
+    text-align: center;
+  }
+  .img {
+    width: 100%;
+  }
+
+  .img-proposal {
+    height: auto;
+    width: 100%;
+  }
+}

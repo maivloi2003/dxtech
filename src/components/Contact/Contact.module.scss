@@ -110,3 +110,26 @@
   width: 100%;
   font-weight: 400;
 }
+
+// Mobile
+@media (max-width: 767px) {
+  .wrapper {
+    height: auto;
+    flex-direction: column;
+  }
+  .contact,
+  .banner-contact {
+    width: 100%;
+  }
+  .form-contact {
+    width: 100%;
+    margin-left: 0;
+    padding: 12px;
+  }
+  .btn-send {
+    padding: 16px 0;
+  }
+  .img-contact {
+    display: none;
+  }
+}

@@ -31,3 +31,27 @@
   font-size: 2rem;
   font-weight: 400;
 }
+
+// Mobile
+@media (max-width: 767px) {
+  .wrapper {
+    height: auto;
+    flex-direction: column;
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+
+  .studies {
+    margin: 0;
+    align-items: center;
+    gap: 12px;
+    padding: 24px 48px;
+  }
+
+  .studies-2 {
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid var(--light);
+    border-top: 1px solid var(--light);
+  }
+}

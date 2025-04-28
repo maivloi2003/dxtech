@@ -81,3 +81,14 @@
   color: white;
   font-size: 24px;
 }
+
+// Mobile
+@media (max-width: 767px) {
+  .wrapper {
+    margin: 0 6px;
+    padding: 0 12px;
+    min-height: 300px;
+    max-height: 600px;
+    justify-content: space-around;
+  }
+}
